@@ -5,7 +5,7 @@
     "color": "#c9a84c",
     "location": "San Mateo, Rizal, Philippines",
     "address": "Ph5 Old Army Rd,Brgy Silangan San Mateo, 1870 Rizal, Pilipinas",
-    "pastor": "Rev. Il Ro Kim",
+    "senior pastor": "Rev. Il Ro Kim",
     "Msnr.": "Woon No Yun",
     "cooperative pastor": "Dr. Woo young",
     "Ministers": "Lyn Castro, Shezel Oludin, Yejin Kim, Jerome Maquiñana, Beverly Mondijar",
@@ -31,7 +31,7 @@
     "contact": "",
     "image": "https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/474471095_931632559096324_7085603598660704363_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeHh6PYBCBpsn3mbfo7cu_hzWnk9uCADvhhaeT24IAO-GKzezjbWwiamVm8OgEtlJATEEJyJo9DFFxhvRNWtrxdL&_nc_ohc=fUUq1p1ao0YQ7kNvwEpJZgw&_nc_oc=Adn0VjW2GmLf-99Gcs6RMA-XgSp4_UCihWH1gC_mvMKvdjMVd9u091Xa9xTdxG4QxiE&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=wjt7vziu1mF4kAba-wbWHQ&_nc_ss=8&oh=00_AfyAdk0rpd56JynOo0mUW-3Nt5I-u4IUlI3XHEIKbvCFVA&oe=69AD9348",
     "tagline": "Grace for every season of life.",
-    "description": "Grace Community Church is a warm, welcoming congregation that believes in the transforming power of God's grace. We are passionate about community, the Scriptures, and serving the city.",
+    "description": "HMCBP Church is a warm, welcoming congregation that believes in the transforming power of God's grace. We are passionate about community, the Scriptures, and serving it's community.",
     "events": [
       { "title": "Morning Worship",      "date": "Every Sunday",   "time": "8:00 AM" },
       { "title": "Bible Study",          "date": "Every Tuesday",  "time": "7:00 PM" },
@@ -49,8 +49,8 @@
     "contact": "09950654479",
     "image": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/184878731_3799122260125353_6832726526001360212_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=25d718&_nc_eui2=AeFdyFCLYtG_w62dFJ07Sojw8m1W0IMQDVHybVbQgxANUUAwKZxV0btiEAr2od8MbKHAHcqm-4F48T88mTI1Fv5g&_nc_ohc=5S3qQP0SXIMQ7kNvwFQNCNc&_nc_oc=AdnW5tFN-ouGlnjFzdKGtj-THY_O1__BHfSW2c-7qod49edYumgid8vw0S0lPE8CDfc&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=gXfFBJMxymTS2UNgEtrrrg&_nc_ss=8&oh=00_AfxH_362-CqDdaQOWS-XyPpyBeD6QCry7j1lGfRyPUXWFA&oe=69CF0D8E",
     "Fb pages": "https://www.facebook.com/share/g/1AWq3JSQSV/",
-    "tagline": "Living For Christ Commiss.",
-    "description": "Grace Community Church is a warm, welcoming congregation that believes in the transforming power of God's grace. We are passionate about community, the Scriptures, and serving the city.",
+    "tagline": "Living For Christ Commission.",
+    "description": "Harvester Mission Maganda Church serves as a welcoming place of worship where the community gathers for prayer, fellowship, and spiritual growth, with a strong focus on evangelism and discipleship..",
     "events": [
       { "title": "Main Worship",      "date": "Every Sunday",   "time": "10:00 AM" },
       { "title": "Kids Worship",          "date": "Every Sunday",  "time": "8:30 aM" },
@@ -70,7 +70,7 @@
     "contact": "",
     "image": "https://images.unsplash.com/photo-1519683109079-d5f539e1542f?w=800&q=80",
     "tagline": "He is the bread that satisfies.",
-    "description": "Bread of Life Ministries is a Spirit-filled church with a heart for families, healing, and holistic discipleship. We believe that every person matters to God and that His Word brings life and wholeness.",
+    "description": "HMSDC is a Spirit-filled church with a heart for families, healing, and holistic discipleship. We believe that every person matters to God and that His Word brings life and wholeness.",
     "events": [
       { "title": "Praise & Worship",   "date": "Every Sunday",  "time": "10:00 AM" },
       { "title": "Couples Fellowship", "date": "3rd Saturday",  "time": "5:00 PM"  },
@@ -87,7 +87,7 @@
     "contact": "",
     "image": "https://images.unsplash.com/photo-1545601440-42b4ea1a5a4d?w=800&q=80",
     "tagline": "Every nation. Every generation.",
-    "description": "Victory is a church committed to making disciples who make disciples. With multiple services and ONE discipleship groups, we equip believers to live out their faith boldly in every sphere of society.",
+    "description": "HMAC committed to making disciples who make disciples. With multiple services and ONE discipleship groups, we equip believers to live out their faith boldly in every sphere of society.",
     "events": [
       { "title": "Sunday Celebration",        "date": "Every Sunday", "time": "7:00 AM & 9:30 AM" },
       { "title": "ONE Discipleship Group",    "date": "Saturdays",    "time": "10:00 AM"           },
@@ -105,7 +105,7 @@
     "contact": "",
     "image": "https://images.unsplash.com/photo-1527786356703-4b100091cd2c?w=800&q=80",
     "tagline": "Shining His light in every darkness.",
-    "description": "Banaba Church is anchored in compassion and evangelism. We serve the urban poor, minister to children, and train the next generation of faith leaders who will shine God's light into every community.",
+    "description": "HMBC is anchored in compassion and evangelism. We serve the urban poor, minister to children, and train the next generation of faith leaders who will shine God's light into every community.",
     "events": [
       { "title": "Holy Communion Sunday", "date": "First Sunday", "time": "9:30 AM" },
       { "title": "Children's Church",     "date": "Every Sunday", "time": "9:00 AM" },
@@ -123,7 +123,7 @@
     "contact": "",
     "image": "https://images.unsplash.com/photo-1565120319398-da008925fc6f?w=800&q=80",
     "tagline": "Rooted in the Word. Growing in love.",
-    "description": "Living Word Bible Church is dedicated to expository preaching and deep biblical formation. Our goal is to see every member rooted in Scripture, equipped for ministry, and growing in Christlike character every day.",
+    "description": "HMSC is dedicated to expository preaching and deep biblical formation. Our goal is to see every member rooted in Scripture, equipped for ministry, and growing in Christlike character every day.",
     "events": [
       { "title": "Word & Worship Sunday",   "date": "Every Sunday",  "time": "9:00 AM"  },
       { "title": "Men's Prayer Breakfast",  "date": "4th Saturday",  "time": "7:30 AM"  },
